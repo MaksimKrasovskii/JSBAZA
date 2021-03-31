@@ -23,7 +23,7 @@ function func2() {
     var temperature = (9 / 5) * celsius + 32;
 
 
-    alert(temperature) + text('по цельсию'); //неверно//
+    alert(temperature) + text('по цельсию');
 }
 func2();
 
