@@ -28,8 +28,8 @@ function func2() {
 func2();
 
 function func3() {
-    var admin = name;
     var name = Василий;
+    var admin = name;
 
     alert(admin);
 }
